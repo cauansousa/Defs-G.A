@@ -53,3 +53,4 @@ if produtoMisto(AD, BD, diferencaVetores(B, A)) == 0:
         print('Retas concorrentes')
 else:
     print('Retas reversas')
+#3
